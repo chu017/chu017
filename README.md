@@ -50,7 +50,7 @@ I am a software engineer adept at designing and developing scalable, high-perfor
 ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?&style=for-the-badge&logo=eslint&logoColor=white)
   
 - 📫 How to reach me:
-    - [Email](calvinchenhupro@gmail.com)
+    - [Email](https://www.calvinchenhupro@gmail.com)
     - [LinkedIn](https://www.linkedin.com/in/calvin-chen-hu-63243729/)
 
 </div>
