@@ -19,7 +19,7 @@ I am a software engineer adept at designing and developing scalable, high-perfor
 ![figma](https://img.shields.io/badge/Figma-F24E1E?&style=for-the-badge&logo=figma&logoColor=white)
     
 #### Back End & Database
-![Node](https://img.shields.io/badge/Node.js-339933?&style=for-the-badge&logo=node-dot-js&logoColor=white)
+![Node](https://img.shields.io/badge/Node.jL-61DAFB?style=for-the-badge&logo=node-dot-js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?&style=for-the-badge&logo=express)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?&style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?&style=for-the-badge&logo=mongodb&logoColor=white)
@@ -27,11 +27,12 @@ I am a software engineer adept at designing and developing scalable, high-perfor
 ![Nginx](https://img.shields.io/badge/Nginx-009639?&style=for-the-badge&logo=Nginx&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?&style=for-the-badge&logo=Docker&logoColor=white)
 ![AWS(RDS)](https://img.shields.io/badge/AWS(RDS)-007396?&style=for-the-badge&logo=AWS(RDS)&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-61DAFB?logo=PostgreSQL&logoColor=white&style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-339933?&logo=PostgreSQL&logoColor=white&style=for-the-badge)
 ![Redis](https://img.shields.io/badge/Redis-E34F26?&style=for-the-badge&logo=Redis&logoColor=white)
 ![SQLite3](https://img.shields.io/badge/SQLite3-DB7093?&style=for-the-badge&logo=SQLite3&logoColor=white)
 ![python](https://img.shields.io/badge/Python-3776AB?&style=for-the-badge&logo=python&logoColor=white)
 
+    
 #### Deployment & Testing
 AWS(EC2, EB, S3) | heroku | Docker | Vercel | Jest | Enzymes | Mocha | Chai | Artillery | k6 | Loader.io | Newrelic
     
