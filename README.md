@@ -27,9 +27,10 @@ I am a software engineer adept at designing and developing scalable, high-perfor
 ![Nginx](https://img.shields.io/badge/Nginx-009639?&style=for-the-badge&logo=Nginx&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?&style=for-the-badge&logo=Docker&logoColor=white)
 ![AWS(RDS)](https://img.shields.io/badge/AWS(RDS)-007396?&style=for-the-badge&logo=AWS(RDS)&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-61DAFB?logo=PostgreSQL&logoColor=white&style=for-the-badge)
+![Redis](https://img.shields.io/badge/Redis-E34F26?&style=for-the-badge&logo=Redis&logoColor=white)
+![SQLite3](https://img.shields.io/badge/SQLite3-DB7093?&style=for-the-badge&logo=SQLite3&logoColor=white)
 ![python](https://img.shields.io/badge/Python-3776AB?&style=for-the-badge&logo=python&logoColor=white)
-    
-Node.js | Express.js | Nginx | Typescript | Python | MySQL | MongoDB | SQLite3 | AWS(Elastic Cache, RDS) | PostgreSQL | Redis
 
 #### Deployment & Testing
 AWS(EC2, EB, S3) | heroku | Docker | Vercel | Jest | Enzymes | Mocha | Chai | Artillery | k6 | Loader.io | Newrelic
