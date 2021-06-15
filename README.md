@@ -18,9 +18,17 @@ I am a software engineer adept at designing and developing scalable, high-perfor
 ![Styled-components](https://img.shields.io/badge/Styled%20Components-DB7093?&style=for-the-badge&logo=styled-components&logoColor=white)
 ![figma](https://img.shields.io/badge/Figma-F24E1E?&style=for-the-badge&logo=figma&logoColor=white)
     
-JavaScript | TypeScript | React.js | Redux.js | Next.js | HTML | CSS | Styled components | CSS Modules | Bootstrap | Bulma | Figma | Sketch 
-
 #### Back End & Database
+![Node](https://img.shields.io/badge/Node.js-339933?&style=for-the-badge&logo=node-dot-js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?&style=for-the-badge&logo=express)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?&style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?&style=for-the-badge&logo=mongodb&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-F7DF1E?&style=for-the-badge&logo=TypeScript&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?&style=for-the-badge&logo=Nginx&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?&style=for-the-badge&logo=Docker&logoColor=white)
+![AWS(RDS)](https://img.shields.io/badge/AWS(RDS)-007396?&style=for-the-badge&logo=AWS(RDS)&logoColor=white)
+![python](https://img.shields.io/badge/Python-3776AB?&style=for-the-badge&logo=python&logoColor=white)
+    
 Node.js | Express.js | Nginx | Typescript | Python | MySQL | MongoDB | SQLite3 | AWS(Elastic Cache, RDS) | PostgreSQL | Redis
 
 #### Deployment & Testing
