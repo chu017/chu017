@@ -18,7 +18,7 @@ AWS(EC2, EB, S3) | heroku | Docker | Vercel
 ### Database
     
 ### Testing
-Jest, Enzymes, Mocha, Chai, Artillery, k6, Loader.io, Newrelic
+Jest | Enzymes | Mocha | Chai | Artillery | k6 | Loader.io | Newrelic
 
 ### Other
 Vim | Git | Postman | npm | Webpack | Babel | Agile methodology | Trello | Linux | Mac
