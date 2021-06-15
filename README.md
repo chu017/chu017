@@ -6,24 +6,19 @@ I am a software engineer adept at designing and developing scalable, high-perfor
     
 ### Some tools that I use:
 
-#### Front End 
+#### Front End & UI/UX
 JavaScript | TypeScript | React | Redux | Next | HTML | CSS | Styled components | CSS Modules | Bootstrap | Bulma | Figma | Sketch 
 
-#### Back End
-NodeJs | ExpressJs | Nginx | Typescript | Python 
+#### Back End & Database
+NodeJs | ExpressJs | Nginx | Typescript | Python | MySQL | MongoDB | SQLite3 | AWS(Elastic Cache, RDS) | PostgreSQL | Redis
 
-#### Deployment
-AWS(EC2, EB, S3) | heroku | Docker | Vercel
+#### Deployment & Testing
+AWS(EC2, EB, S3) | heroku | Docker | Vercel | Jest | Enzymes | Mocha | Chai | Artillery | k6 | Loader.io | Newrelic
     
-#### Database
-MySQL | MongoDB | SQLite3 | AWS(Elastic Cache, RDS) | PostgreSQL | Redis
-    
-#### Testing
-Jest | Enzymes | Mocha | Chai | Artillery | k6 | Loader.io | Newrelic
-
 #### Other
 Vim | Git | Postman | npm | Webpack | Babel | Agile methodology | Trello | Linux | Mac
   
+    
 - 📫 How to reach me:
     - [Email](https://www.calvinchenhupro@gmail.com)
     - [LinkedIn](https://www.linkedin.com/in/calvin-chen-hu-63243729/)
