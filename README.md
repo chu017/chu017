@@ -19,8 +19,8 @@ I am a software engineer adept at designing and developing scalable, high-perfor
 ![figma](https://img.shields.io/badge/Figma-F24E1E?&style=for-the-badge&logo=figma&logoColor=white)
     
 #### Back End & Database
-![Node](https://img.shields.io/badge/Node.jL-61DAFB?style=for-the-badge&logo=node-dot-js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?&style=for-the-badge&logo=express)
+![Node.js](https://img.shields.io/badge/Node.js-61DAFB?style=for-the-badge&logo=node.js-dot-js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?&style=for-the-badge&logo=express.js)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?&style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?&style=for-the-badge&logo=mongodb&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-F7DF1E?&style=for-the-badge&logo=TypeScript&logoColor=white)
@@ -34,7 +34,17 @@ I am a software engineer adept at designing and developing scalable, high-perfor
 
     
 #### Deployment & Testing
-AWS(EC2, EB, S3) | heroku | Docker | Vercel | Jest | Enzymes | Mocha | Chai | Artillery | k6 | Loader.io | Newrelic
+![AWS(EC2, EB, S3)](https://img.shields.io/badge/AWS(EC2, EB, S3)-61DAFB?style=for-the-badge&logo=AWS(EC2, EB, S3)-dot-js&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-000000?&style=for-the-badge&logo=Docker)
+![heroku](https://img.shields.io/badge/heroku-4479A1?&style=for-the-badge&logo=heroku&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-47A248?&style=for-the-badge&logo=Vercel&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?&style=for-the-badge&logo=Jest&logoColor=white)
+![testinglibrary](https://img.shields.io/badge/Testing%20Library-E33332?&style=for-the-badge&logo=testing-library&logoColor=white)
+![Mocha](https://img.shields.io/badge/Mocha-8D6748?&style=for-the-badge&logo=Mocha&logoColor=white)
+![Chai](https://img.shields.io/badge/Chai-A30701?&style=for-the-badge&logo=Chai&logoColor=white)
+![k6](https://img.shields.io/badge/k6-DB7093?&style=for-the-badge&logo=k6&logoColor=white)
+![Loader.io](https://img.shields.io/badge/Loader.io-3776AB?&style=for-the-badge&logo=Loader.io&logoColor=white)
+![New Relic](https://img.shields.io/badge/New%20Relic-008C99?&style=for-the-badge&logo=new-relic&logoColor=white)
     
 #### Other
 Vim | Git | Postman | npm | Webpack | Babel | Agile methodology | Trello | Linux | Mac
