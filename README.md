@@ -9,6 +9,7 @@ I am a software engineer adept at designing and developing scalable, high-perfor
 ### Front End 
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-FF6C37?&style=for-the-badge&logo=TypeScript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?logo=Redux&logoColor=white&style=for-the-badge)
 ![react-router](https://img.shields.io/badge/React%20Router-CA4245?logo=react-router&logoColor=white&style=for-the-badge)
@@ -27,7 +28,6 @@ I am a software engineer adept at designing and developing scalable, high-perfor
 ![Docker](https://img.shields.io/badge/Docker-2496ED?&style=for-the-badge&logo=Docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?&style=for-the-badge&logo=Nginx&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?&style=for-the-badge&logo=postman&logoColor=white)
-![java](https://img.shields.io/badge/Java-007396?&style=for-the-badge&logo=java&logoColor=white)
 ![python](https://img.shields.io/badge/Python-3776AB?&style=for-the-badge&logo=python&logoColor=white)
 
 ### Testing
@@ -41,9 +41,9 @@ I am a software engineer adept at designing and developing scalable, high-perfor
 ### Other
 
 ![aws](https://img.shields.io/badge/AWS-232F3E?&style=for-the-badge&logo=amazon-aws&logoColor=white)
-![heroku](https://img.shields.io/badge/Heroku-430098?&style=for-the-badge&logo=heroku&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?&style=for-the-badge&logo=npm&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?&style=for-the-badge&logo=git&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?&style=for-the-badge&logo=npm&logoColor=white)
+![heroku](https://img.shields.io/badge/Heroku-430098?&style=for-the-badge&logo=heroku&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![webpack](https://img.shields.io/badge/Webpack-8DD6F9?&style=for-the-badge&logo=webpack&logoColor=white)
 ![Babel](https://img.shields.io/badge/Babel-F9DC3E?&style=for-the-badge&logo=babel&logoColor=white)
