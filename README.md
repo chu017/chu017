@@ -17,9 +17,5 @@ AWS(EC2, EB, S3) | heroku | Docker | Vercel | Jest | Enzymes | Mocha | Chai | Ar
     
 #### Other
 Vim | Git | Postman | npm | Webpack | Babel | Agile methodology | Trello | Linux | Mac
-  
-    
-- 📫 How to reach me:
-    - [LinkedIn](https://www.linkedin.com/in/calvin-chen-hu-63243729/)
 
 </div>
