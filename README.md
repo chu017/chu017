@@ -20,7 +20,7 @@ Vim | Git | Postman | npm | Webpack | Babel | Agile methodology | Trello | Linux
   
     
 - 📫 How to reach me:
-    - Email: https://www.calvinchenhupro@gmail.com
     - [LinkedIn](https://www.linkedin.com/in/calvin-chen-hu-63243729/)
+    - Email: https://www.calvinchenhupro@gmail.com
 
 </div>
