@@ -34,7 +34,7 @@ I am a software engineer adept at designing and developing scalable, high-perfor
 
     
 #### Deployment & Testing
-![AWS(EC2, S3)](https://img.shields.io/badge/AWS(EC2, S3)-1572B6?&style=for-the-badge&logo=AWS(EC2, S3)&logoColor=white)
+![AWS(EC2)](https://img.shields.io/badge/AWS(EC2)-1572B6?&style=for-the-badge&logo=AWS(EC2)&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-000000?&style=for-the-badge&logo=Docker)
 ![heroku](https://img.shields.io/badge/heroku-4479A1?&style=for-the-badge&logo=heroku&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-47A248?&style=for-the-badge&logo=Vercel&logoColor=white)
