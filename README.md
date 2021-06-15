@@ -7,10 +7,10 @@ I am a software engineer adept at designing and developing scalable, high-perfor
 ### Some tools that I use:
 
 #### Front End & UI/UX
-JavaScript | TypeScript | React | Redux | Next | HTML | CSS | Styled components | CSS Modules | Bootstrap | Bulma | Figma | Sketch 
+JavaScript | TypeScript | React.js | Redux.js | Next.js | HTML | CSS | Styled components | CSS Modules | Bootstrap | Bulma | Figma | Sketch 
 
 #### Back End & Database
-NodeJs | ExpressJs | Nginx | Typescript | Python | MySQL | MongoDB | SQLite3 | AWS(Elastic Cache, RDS) | PostgreSQL | Redis
+Node.js | Express.js | Nginx | Typescript | Python | MySQL | MongoDB | SQLite3 | AWS(Elastic Cache, RDS) | PostgreSQL | Redis
 
 #### Deployment & Testing
 AWS(EC2, EB, S3) | heroku | Docker | Vercel | Jest | Enzymes | Mocha | Chai | Artillery | k6 | Loader.io | Newrelic
