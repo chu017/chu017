@@ -47,6 +47,13 @@ I am a software engineer adept at designing and developing scalable, high-perfor
 ![New Relic](https://img.shields.io/badge/New%20Relic-008C99?&style=for-the-badge&logo=new-relic&logoColor=white)
     
 #### Other
-Vim | Git | Postman | npm | Webpack | Babel | Agile methodology | Trello | Linux | Mac
+![Vim](https://img.shields.io/badge/Vim-232F3E?&style=for-the-badge&logo=Vim&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?&style=for-the-badge&logo=git&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?&style=for-the-badge&logo=npm&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-430098?&style=for-the-badge&logo=Postman&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![webpack](https://img.shields.io/badge/Webpack-8DD6F9?&style=for-the-badge&logo=webpack&logoColor=white)
+![Babel](https://img.shields.io/badge/Babel-F9DC3E?&style=for-the-badge&logo=babel&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?&style=for-the-badge&logo=eslint&logoColor=white)
 
 </div>
