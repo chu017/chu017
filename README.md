@@ -17,6 +17,7 @@ I am a software engineer adept at designing and developing scalable, high-perfor
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-E34F26?&style=for-the-badge&logo=Bootstrap&logoColor=white)
 ![Styled-components](https://img.shields.io/badge/Styled%20Components-DB7093?&style=for-the-badge&logo=styled-components&logoColor=white)
 ![figma](https://img.shields.io/badge/Figma-F24E1E?&style=for-the-badge&logo=figma&logoColor=white)
+![sketch](https://img.shields.io/badge/sketch-000000?&style=for-the-badge&logo=sketch)
     
 #### Back End & Database
 ![Node.js](https://img.shields.io/badge/Node.js-61DAFB?style=for-the-badge&logo=node.js-dot-js&logoColor=white)
