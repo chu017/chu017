@@ -6,7 +6,7 @@ I am a software engineer adept at designing and developing scalable, high-perfor
     
 ### Some tools that I use:
 
-#### Front End & UI/UX
+#### Front End & UI / UX
 ![JavaScript](https://img.shields.io/badge/JavaScript-1572B6?&style=for-the-badge&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-F7DF1E?&style=for-the-badge&logo=TypeScript&logoColor=white)
 ![React.js](https://img.shields.io/badge/React.js-61DAFB?logo=react.js&logoColor=white&style=for-the-badge)
